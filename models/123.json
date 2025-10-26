@@ -1,5 +1,5 @@
 {
-    "id":  116,
+    "id":  123,
     "vertices":  [
                      [
                          0,
@@ -23,12 +23,12 @@
                      ]
                  ],
     "color":  [
-                  79,
-                  79,
-                  79
+                  50,
+                  205,
+                  50
               ],
     "alphamode":  "opaque",
-    "material":  597,
+    "material":  604,
     "faces":  [
                   [
                       0,
